@@ -16,3 +16,9 @@ Hat sich überwunden und die Hübscheste im Auenland erobert
 > happy? How could the world go back to the way it was when so much bad had happened? But in
 > the end, it’s only a passing thing… this shadow. Even darkness must pass.
 <img src="https://s3.xopic.de/openhpi-public/courses/7cZWaATaTjbQ4phWCr6tg3/rtfiles/4q6wOLeLWYMu5syPwPlVPR/85002346_267b8e5c6c_o.jpg"/>
+
+## Charakter Eigenschaften
+* Spezies: Hobbits
+* Ein friedlebender Geselle
+* Trinkfest
+* Hat sich überwunden und die Hübscheste im Auenland erobert
