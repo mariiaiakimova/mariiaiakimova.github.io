@@ -6,4 +6,8 @@ Herr der Ringe dreht sich vor allem um Frodo, der den einen Ring zu zerstören h
     Hat sich überwunden und die Hübscheste im Auenland erobert
     Hat 13 Kinder
     Wurde Bürgermeister vom Auenland
-
+## Charakter Eigenschaften
+Spezies: Hobbits
+Ein friedlebender Geselle
+Trinkfest
+Hat sich überwunden und die Hübscheste im Auenland erobert
